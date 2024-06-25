@@ -17,11 +17,11 @@ React로 구현된 간단하고 직관적인 To Do List 애플리케이션입니
 ## 설치
 1. 저장소를 복제 합니다.
 ```
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/sooxpak/Soo_Do_List
 ```
 2. 프로젝트 디렉토리로 이동합니다.
 ```
-cd todo-list-app
+cd Soo-Do-List
 ```
 3. 필요한 패키지를 설치합니다.
 ```
